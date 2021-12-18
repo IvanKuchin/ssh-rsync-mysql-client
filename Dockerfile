@@ -1,3 +1,3 @@
 FROM alpine
 
-RUN apk add openssh mysql-client rsync
+RUN apk add openssh mysql-client rsync tzdata
